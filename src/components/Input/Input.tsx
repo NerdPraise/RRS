@@ -66,7 +66,13 @@ export const Input = ({
 
   return (
     <div className={ClassNames(classname, style.Input)}>
-      <input ref={inputRef} name={name} onChange={onInputChange} type={type} />
+      <input
+        ref={inputRef}
+        name={name}
+        onChange={onInputChange}
+        type={type}
+        data-testid={name}
+      />
       {error?.[name] && <div className={style.error}>{error[name]}</div>}
     </div>
   )

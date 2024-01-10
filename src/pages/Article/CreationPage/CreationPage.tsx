@@ -40,7 +40,7 @@ export const CreationPage = () => {
         <h2 className={style.header}>Article Page</h2>
         <div className={style.tag}>Create your new articles</div>
         <div className="form">
-          <form ref={formRef} onSubmit={handleSubmit}>
+          <form ref={formRef} onSubmit={handleSubmit} role="form">
             <div className={style.name__group}>
               <div className="input__group half">
                 <label htmlFor="first_name ">First name</label>
@@ -95,9 +95,15 @@ export const CreationPage = () => {
             </div>
             <div className="input__group">
               <label htmlFor="body">Body</label>
-              <textarea name="body" rows={12} cols={60} required />
+              <textarea
+                name="body"
+                rows={12}
+                cols={60}
+                required
+                role="textbox"
+              />
             </div>
-            <button disabled={shouldDisable} type="submit">
+            <button disabled={shouldDisable} data-testid="textarea">
               Submit
             </button>
           </form>

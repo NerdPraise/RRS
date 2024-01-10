@@ -31,6 +31,9 @@ NB: It is a small project, so I omitted having a distinct API/util file.
 
 #### Test
 1. Run `npm run test`
+NB: The test are split into renders and actions
+This is because vitest hoists all module mock and would require extra config which would seem like overengineering for the few tests
+   
 
 ### Live
-You can access this changes at -> []()
+You can access this changes at -> [rrsfe.netlify.app](https://rrsfe.netlify.app)

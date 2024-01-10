@@ -1,8 +1,10 @@
 import { describe, expect, it, vi, afterEach } from 'vitest'
-import { cleanup, render } from '@testing-library/react'
+import { cleanup, render, screen, fireEvent } from '@testing-library/react'
 import '@testing-library/jest-dom/vitest'
 
 import { ResultsPage } from '@Pages/ResultsPage'
+
+let btnClick = vi.fn() // Because mock vi.mock is hoisted
 
 let result = [
   {
@@ -25,23 +27,32 @@ let result = [
   },
 ]
 
-describe('ResultPage Renders', () => {
+describe('ResultPage Actions', () => {
+  vi.mock('react', async () => ({
+    ...(await vi.importActual('react')),
+    useState: vi
+      .fn()
+      .mockImplementationOnce(() => ['Reflections', vi.fn()]) // set search term
+      .mockImplementationOnce(() => [result, vi.fn()])
+      // This is for the second test; Module mocks in vitest requires such hack
+      .mockImplementationOnce(() => ['Reflections', btnClick])
+      .mockImplementationOnce(() => [result, vi.fn()]),
+  }))
   afterEach(() => {
     cleanup()
   })
 
-  it('renders correctly', () => {
-    const page = render(<ResultsPage />)
-    expect(page.queryByText('Search')).toBeInTheDocument()
-    expect(page.getByRole('button')).toBeInTheDocument()
-    expect(
-      page.queryByPlaceholderText('Search by author or title'),
-    ).toBeInTheDocument()
-    expect(page.queryByText('Author: Jane Smith')).toBeInTheDocument()
+  it('searches by Title correctly', () => {
+    render(<ResultsPage />)
+    expect(screen.queryByText('Reflections in the Mirror')).toBeInTheDocument()
+    expect(screen.queryByText('Whispers of Eternity')).not.toBeInTheDocument()
   })
 
-  it('matches snapshot', () => {
-    const page = render(<ResultsPage />)
-    expect(page).toMatchSnapshot()
+  it('button works as should', () => {
+    render(<ResultsPage />)
+    const button = screen.getByRole('button')
+    fireEvent.click(button)
+
+    expect(btnClick).toHaveBeenCalled()
   })
 })

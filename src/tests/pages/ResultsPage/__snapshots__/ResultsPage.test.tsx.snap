@@ -1,0 +1,1614 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ResultPage Renders > matches snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="_ResultsPage_eae21d"
+      >
+        <div
+          class="_input__group_eae21d"
+        >
+          <input
+            placeholder="Search by author or title"
+            type="text"
+          />
+          <button>
+            Search
+          </button>
+        </div>
+        <div
+          class="_results__card__container_eae21d"
+        >
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers of Eternity
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the dimly lit room, Sarah felt a shiver down her spine. The words echoed in her mind, 'Whispers of eternity resonate in the silence of the night.' It was a phrase she had read in her favorite book by John Doe, an author known for weaving tales of mystery and magic.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                John Doe
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Reflections in the Mirror
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              As the raindrops tapped against the window pane, Mark found himself lost in the pages of 'Reflections in the Mirror' by Jane Smith. The author's prose painted vivid pictures of self-discovery and inner reflections, leaving a lasting impression on the reader's soul.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Jane Smith
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Serenade of Shadows
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Amelia gazed at the moonlit sky, pondering the mysteries that unfolded in 'Serenade of Shadows' by Emily Johnson. Each page carried a melody of suspense, and the author's intricate storytelling left readers enchanted by the dance between light and shadow.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Emily Johnson
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Echoes of Tomorrow
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the futuristic cityscape, Alex immersed himself in 'Echoes of Tomorrow' by David Anderson. The author's visionary narrative and compelling characters propelled readers into a world where echoes of the future resonated with the choices made in the present.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                David Anderson
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers in the Garden
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Among the blooming flowers, Sophia Martinez wove a tale of love and secrets in 'Whispers in the Garden.' Readers strolled through the story's lush landscapes, savoring the fragrance of romance and the intrigue hidden beneath the petals.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Sophia Martinez
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Silent Echoes
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the quiet town of Silent Hollow, Thomas Baker penned 'Silent Echoes,' a mystery that unfolded like a puzzle. Each page turned revealed fragments of the past, and readers found themselves deciphering the whispers of long-forgotten secrets.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Thomas Baker
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Dance of Shadows
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Eva Mitchell's 'Dance of Shadows' unfolded on the stage of a forgotten theater. The characters pirouetted through the pages, leaving imprints of their stories in the shadows. Readers became entranced by the rhythm of the narrative, a ballet of emotions.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Eva Mitchell
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Chronicles of the Cosmos
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the vast expanse of the universe, Christopher Turner's 'Chronicles of the Cosmos' invited readers on an interstellar journey. Each chapter explored the cosmic tapestry, weaving together tales of distant galaxies and the interplay of celestial forces.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Christopher Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Enchanted Lighthouse
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              At the edge of the cliff stood an ancient lighthouse, the setting for Olivia White's 'The Enchanted Lighthouse.' The beacon's light revealed hidden truths, and readers sailed through the mystic waves of the author's enchanting storytelling.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Olivia White
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Ephemeral Whispers
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the twilight of existence, Robert Adams penned 'Ephemeral Whispers,' a philosophical exploration of life's fleeting moments. Each chapter was a contemplative journey, and readers found solace in the delicate prose that lingered like a gentle breeze.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Robert Adams
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Midnight Carnival
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Beneath the moonlit sky, Megan Johnson's characters danced through 'The Midnight Carnival.' The carnival's magic unfolded in the shadows, and readers were swept away by the enchantment of the author's whimsical narrative.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Megan Johnson
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Echoes of the Abyss
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the depths of the unknown, Samuel Roberts explored 'Echoes of the Abyss.' The darkness held secrets, and readers ventured into the abyss alongside the author's characters, discovering the echoes of both fear and fascination.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Samuel Roberts
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              A Symphony of Stars
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Across the celestial symphony, Grace Miller conducted 'A Symphony of Stars.' The night sky became a canvas, and readers traced the constellations of the author's imagination, where each star told a tale in the grand cosmic orchestra.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Grace Miller
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Quantum Paradox
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Within the quantum realm, Jonathan Taylor explored the enigma of existence in 'The Quantum Paradox.' The characters danced between parallel worlds, and readers were entangled in the author's web of intrigue and speculative wonder.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Jonathan Taylor
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers of the Sea
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              On the windswept shore, Natalie Turner's 'Whispers of the Sea' unfolded like waves upon the sand. The tide carried the secrets of the past, and readers immersed themselves in the ebb and flow of the author's maritime tale.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Natalie Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Clockwork Kingdom
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In a realm of gears and cogs, Henry Lee crafted 'The Clockwork Kingdom.' The ticking of mechanical hearts echoed through the narrative, and readers marveled at the intricate world the author constructed with precision and imagination.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Henry Lee
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Mystic Moonlight
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Beneath the mystic moonlight, Isabel Martinez's characters embarked on a journey in 'Mystic Moonlight.' The night held secrets, and readers followed the author's enchanting prose through a tapestry woven with moonbeams and magic.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Isabel Martinez
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Whispering Woods
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Amidst ancient trees, Richard Adams penned 'The Whispering Woods.' The rustle of leaves carried tales untold, and readers ventured deep into the heart of the forest, where the author's narrative wove a tale of mystery and ancient magic.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Richard Adams
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Canvas of Dreams
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the quiet art studio, Olivia found solace in the strokes of imagination painted on the 'Canvas of Dreams' by Sophie Turner. Each chapter unfolded a new layer of creativity, inspiring readers to embrace the beauty that lies within the colors of their own dreams.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Sophie Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Ripples of Destiny
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the small seaside town, Daniel Evans penned 'Ripples of Destiny,' a tale where every choice sent ripples through the fabric of fate. Readers sailed through the narrative, navigating the currents of uncertainty, and discovering that destiny is a tapestry woven by the choices we make.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Daniel Evans
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Forgotten Symphony
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the attic of memories, Emma Wright composed 'The Forgotten Symphony.' Each note carried the weight of forgotten stories, and readers explored the author's melodic prose, rediscovering the echoes of the past within the forgotten tunes.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Emma Wright
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers in the Breeze
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              On the hilltop, Brian Johnson's characters listened to 'Whispers in the Breeze.' The wind carried the tales of the meadow, and readers joined the characters in unraveling the secrets carried by the gentle caress of the author's narrative.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Brian Johnson
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Eternal Embers
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Burning brightly in the night, 'Eternal Embers' by Victoria Lee illuminated the path of forgotten legends. Readers traversed the realms of fantasy, where the author's characters became beacons in the darkness, guiding the way through the intricacies of a mythical world.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Victoria Lee
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Alchemist's Legacy
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In a world of potions and mysteries, Gabriel Miller penned 'The Alchemist's Legacy.' The protagonist delved into the secrets of transmutation, and readers followed the author's alchemical narrative, where each chapter distilled the essence of magic and discovery.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Gabriel Miller
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Enchanted Garden
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Amidst the blooming flowers, Lily Turner cultivated 'The Enchanted Garden.' Each petal held a story, and readers strolled through the author's botanical prose, discovering the magic that unfolded within the vibrant tapestry of nature.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Lily Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Echoes of the Void
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the cosmic silence, Connor Davis explored 'Echoes of the Void.' The vast expanse held echoes of forgotten tales, and readers traversed the celestial landscape alongside the author's characters, unraveling the mysteries hidden within the cosmic abyss.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Connor Davis
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Celestial Sonata
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Across the starlit symphony, Sophia Turner composed 'The Celestial Sonata.' Each celestial note resonated with cosmic tales, and readers embarked on a journey through the astral realms, guided by the harmonious prose of the author's interstellar composition.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Sophia Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers of the Pines
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Beneath the towering pines, Nicholas Wright penned 'Whispers of the Pines.' The forest held secrets, and readers followed the trail of the author's characters, discovering the echoes of ancient stories carried by the gentle rustle of pine needles.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Nicholas Wright
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Luminous Dreams
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the realm of dreams, Emma Turner painted 'Luminous Dreams.' Each dream held a shimmering tale, and readers journeyed through the author's surreal landscapes, where the boundaries between reality and imagination blurred in the soft glow of the dreamscape.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Emma Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Quantum Garden
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Amidst the quantum flora, Nathan Roberts cultivated 'The Quantum Garden.' The laws of reality bent in the author's narrative, and readers explored the intricate patterns of existence within the quantum blooms of the fantastical garden.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Nathan Roberts
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Echoes of Elysium
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the mythical realm of Elysium, Isabella Davis wove 'Echoes of Elysium.' The echoes carried the resonance of ancient legends, and readers embarked on a quest alongside the author's characters, discovering the magic that lingered in the mythical tapestry.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Isabella Davis
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Astral Odyssey
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              Across the astral sea, William Turner navigated 'The Astral Odyssey.' Each chapter sailed through celestial currents, and readers ventured into the author's cosmic narrative, where the boundaries between reality and the astral realms blurred in the starlit voyage.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                William Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Whispers in the Meadow
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the sunlit meadow, Eva Turner's characters listened to 'Whispers in the Meadow.' The gentle breeze carried tales of the wildflowers, and readers joined the characters in unraveling the secrets hidden within the rustling grasses of the author's narrative.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Eva Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Forgotten Symphony
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the attic of memories, Samuel Turner composed 'The Forgotten Symphony.' Each note held the weight of forgotten stories, and readers explored the melodic prose, rediscovering the echoes of the past within the haunting tunes of the author's forgotten symphony.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Samuel Turner
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              The Alchemist's Legacy
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In a world of potions and mysteries, Mia Roberts penned 'The Alchemist's Legacy.' The protagonist delved into the secrets of transmutation, and readers followed the alchemical narrative, where each chapter distilled the essence of magic and discovery.
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Mia Roberts
+              </div>
+            </div>
+          </div>
+          <div
+            class="_Card_1f2933 _result__card_eae21d"
+          >
+            <div
+              class="_card__header_1f2933"
+            >
+              Echoes of the Void
+            </div>
+            <div
+              class="_card__body_1f2933"
+            >
+               
+              In the cosmic silence, Lucas Davis explored 'Echoes of the Void.' The vast expanse held echoes of forgotten tales, and readers traversed the celestial landscape alongside the author's characters, unraveling the mysteries hidden within
+              <div
+                class="_author_eae21d"
+              >
+                Author: 
+                Lucas Davis
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="_ResultsPage_eae21d"
+    >
+      <div
+        class="_input__group_eae21d"
+      >
+        <input
+          placeholder="Search by author or title"
+          type="text"
+        />
+        <button>
+          Search
+        </button>
+      </div>
+      <div
+        class="_results__card__container_eae21d"
+      >
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers of Eternity
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the dimly lit room, Sarah felt a shiver down her spine. The words echoed in her mind, 'Whispers of eternity resonate in the silence of the night.' It was a phrase she had read in her favorite book by John Doe, an author known for weaving tales of mystery and magic.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              John Doe
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Reflections in the Mirror
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            As the raindrops tapped against the window pane, Mark found himself lost in the pages of 'Reflections in the Mirror' by Jane Smith. The author's prose painted vivid pictures of self-discovery and inner reflections, leaving a lasting impression on the reader's soul.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Jane Smith
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Serenade of Shadows
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Amelia gazed at the moonlit sky, pondering the mysteries that unfolded in 'Serenade of Shadows' by Emily Johnson. Each page carried a melody of suspense, and the author's intricate storytelling left readers enchanted by the dance between light and shadow.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Emily Johnson
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Echoes of Tomorrow
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the futuristic cityscape, Alex immersed himself in 'Echoes of Tomorrow' by David Anderson. The author's visionary narrative and compelling characters propelled readers into a world where echoes of the future resonated with the choices made in the present.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              David Anderson
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers in the Garden
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Among the blooming flowers, Sophia Martinez wove a tale of love and secrets in 'Whispers in the Garden.' Readers strolled through the story's lush landscapes, savoring the fragrance of romance and the intrigue hidden beneath the petals.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Sophia Martinez
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Silent Echoes
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the quiet town of Silent Hollow, Thomas Baker penned 'Silent Echoes,' a mystery that unfolded like a puzzle. Each page turned revealed fragments of the past, and readers found themselves deciphering the whispers of long-forgotten secrets.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Thomas Baker
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Dance of Shadows
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Eva Mitchell's 'Dance of Shadows' unfolded on the stage of a forgotten theater. The characters pirouetted through the pages, leaving imprints of their stories in the shadows. Readers became entranced by the rhythm of the narrative, a ballet of emotions.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Eva Mitchell
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Chronicles of the Cosmos
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the vast expanse of the universe, Christopher Turner's 'Chronicles of the Cosmos' invited readers on an interstellar journey. Each chapter explored the cosmic tapestry, weaving together tales of distant galaxies and the interplay of celestial forces.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Christopher Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Enchanted Lighthouse
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            At the edge of the cliff stood an ancient lighthouse, the setting for Olivia White's 'The Enchanted Lighthouse.' The beacon's light revealed hidden truths, and readers sailed through the mystic waves of the author's enchanting storytelling.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Olivia White
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Ephemeral Whispers
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the twilight of existence, Robert Adams penned 'Ephemeral Whispers,' a philosophical exploration of life's fleeting moments. Each chapter was a contemplative journey, and readers found solace in the delicate prose that lingered like a gentle breeze.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Robert Adams
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Midnight Carnival
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Beneath the moonlit sky, Megan Johnson's characters danced through 'The Midnight Carnival.' The carnival's magic unfolded in the shadows, and readers were swept away by the enchantment of the author's whimsical narrative.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Megan Johnson
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Echoes of the Abyss
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the depths of the unknown, Samuel Roberts explored 'Echoes of the Abyss.' The darkness held secrets, and readers ventured into the abyss alongside the author's characters, discovering the echoes of both fear and fascination.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Samuel Roberts
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            A Symphony of Stars
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Across the celestial symphony, Grace Miller conducted 'A Symphony of Stars.' The night sky became a canvas, and readers traced the constellations of the author's imagination, where each star told a tale in the grand cosmic orchestra.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Grace Miller
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Quantum Paradox
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Within the quantum realm, Jonathan Taylor explored the enigma of existence in 'The Quantum Paradox.' The characters danced between parallel worlds, and readers were entangled in the author's web of intrigue and speculative wonder.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Jonathan Taylor
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers of the Sea
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            On the windswept shore, Natalie Turner's 'Whispers of the Sea' unfolded like waves upon the sand. The tide carried the secrets of the past, and readers immersed themselves in the ebb and flow of the author's maritime tale.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Natalie Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Clockwork Kingdom
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In a realm of gears and cogs, Henry Lee crafted 'The Clockwork Kingdom.' The ticking of mechanical hearts echoed through the narrative, and readers marveled at the intricate world the author constructed with precision and imagination.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Henry Lee
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Mystic Moonlight
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Beneath the mystic moonlight, Isabel Martinez's characters embarked on a journey in 'Mystic Moonlight.' The night held secrets, and readers followed the author's enchanting prose through a tapestry woven with moonbeams and magic.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Isabel Martinez
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Whispering Woods
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Amidst ancient trees, Richard Adams penned 'The Whispering Woods.' The rustle of leaves carried tales untold, and readers ventured deep into the heart of the forest, where the author's narrative wove a tale of mystery and ancient magic.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Richard Adams
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Canvas of Dreams
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the quiet art studio, Olivia found solace in the strokes of imagination painted on the 'Canvas of Dreams' by Sophie Turner. Each chapter unfolded a new layer of creativity, inspiring readers to embrace the beauty that lies within the colors of their own dreams.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Sophie Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Ripples of Destiny
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the small seaside town, Daniel Evans penned 'Ripples of Destiny,' a tale where every choice sent ripples through the fabric of fate. Readers sailed through the narrative, navigating the currents of uncertainty, and discovering that destiny is a tapestry woven by the choices we make.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Daniel Evans
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Forgotten Symphony
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the attic of memories, Emma Wright composed 'The Forgotten Symphony.' Each note carried the weight of forgotten stories, and readers explored the author's melodic prose, rediscovering the echoes of the past within the forgotten tunes.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Emma Wright
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers in the Breeze
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            On the hilltop, Brian Johnson's characters listened to 'Whispers in the Breeze.' The wind carried the tales of the meadow, and readers joined the characters in unraveling the secrets carried by the gentle caress of the author's narrative.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Brian Johnson
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Eternal Embers
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Burning brightly in the night, 'Eternal Embers' by Victoria Lee illuminated the path of forgotten legends. Readers traversed the realms of fantasy, where the author's characters became beacons in the darkness, guiding the way through the intricacies of a mythical world.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Victoria Lee
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Alchemist's Legacy
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In a world of potions and mysteries, Gabriel Miller penned 'The Alchemist's Legacy.' The protagonist delved into the secrets of transmutation, and readers followed the author's alchemical narrative, where each chapter distilled the essence of magic and discovery.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Gabriel Miller
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Enchanted Garden
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Amidst the blooming flowers, Lily Turner cultivated 'The Enchanted Garden.' Each petal held a story, and readers strolled through the author's botanical prose, discovering the magic that unfolded within the vibrant tapestry of nature.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Lily Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Echoes of the Void
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the cosmic silence, Connor Davis explored 'Echoes of the Void.' The vast expanse held echoes of forgotten tales, and readers traversed the celestial landscape alongside the author's characters, unraveling the mysteries hidden within the cosmic abyss.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Connor Davis
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Celestial Sonata
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Across the starlit symphony, Sophia Turner composed 'The Celestial Sonata.' Each celestial note resonated with cosmic tales, and readers embarked on a journey through the astral realms, guided by the harmonious prose of the author's interstellar composition.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Sophia Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers of the Pines
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Beneath the towering pines, Nicholas Wright penned 'Whispers of the Pines.' The forest held secrets, and readers followed the trail of the author's characters, discovering the echoes of ancient stories carried by the gentle rustle of pine needles.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Nicholas Wright
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Luminous Dreams
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the realm of dreams, Emma Turner painted 'Luminous Dreams.' Each dream held a shimmering tale, and readers journeyed through the author's surreal landscapes, where the boundaries between reality and imagination blurred in the soft glow of the dreamscape.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Emma Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Quantum Garden
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Amidst the quantum flora, Nathan Roberts cultivated 'The Quantum Garden.' The laws of reality bent in the author's narrative, and readers explored the intricate patterns of existence within the quantum blooms of the fantastical garden.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Nathan Roberts
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Echoes of Elysium
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the mythical realm of Elysium, Isabella Davis wove 'Echoes of Elysium.' The echoes carried the resonance of ancient legends, and readers embarked on a quest alongside the author's characters, discovering the magic that lingered in the mythical tapestry.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Isabella Davis
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Astral Odyssey
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            Across the astral sea, William Turner navigated 'The Astral Odyssey.' Each chapter sailed through celestial currents, and readers ventured into the author's cosmic narrative, where the boundaries between reality and the astral realms blurred in the starlit voyage.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              William Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Whispers in the Meadow
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the sunlit meadow, Eva Turner's characters listened to 'Whispers in the Meadow.' The gentle breeze carried tales of the wildflowers, and readers joined the characters in unraveling the secrets hidden within the rustling grasses of the author's narrative.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Eva Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Forgotten Symphony
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the attic of memories, Samuel Turner composed 'The Forgotten Symphony.' Each note held the weight of forgotten stories, and readers explored the melodic prose, rediscovering the echoes of the past within the haunting tunes of the author's forgotten symphony.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Samuel Turner
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            The Alchemist's Legacy
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In a world of potions and mysteries, Mia Roberts penned 'The Alchemist's Legacy.' The protagonist delved into the secrets of transmutation, and readers followed the alchemical narrative, where each chapter distilled the essence of magic and discovery.
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Mia Roberts
+            </div>
+          </div>
+        </div>
+        <div
+          class="_Card_1f2933 _result__card_eae21d"
+        >
+          <div
+            class="_card__header_1f2933"
+          >
+            Echoes of the Void
+          </div>
+          <div
+            class="_card__body_1f2933"
+          >
+             
+            In the cosmic silence, Lucas Davis explored 'Echoes of the Void.' The vast expanse held echoes of forgotten tales, and readers traversed the celestial landscape alongside the author's characters, unraveling the mysteries hidden within
+            <div
+              class="_author_eae21d"
+            >
+              Author: 
+              Lucas Davis
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
