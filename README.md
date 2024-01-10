@@ -15,7 +15,7 @@ npm >= 10.2.5
 1. Clone project
 2. Install all the dependencies `npm i`
 3. Run `npm run dev` to start development server
-4. Go to ` http://localhost:5173/` to access page
+4. Go to [localhost](http://localhost:5173/) to access page
    
 #### Project Composition
 
@@ -29,3 +29,6 @@ NB: It is a small project, so I omitted having a distinct API/util file.
 
 #### Test
 1. Run `npm run test`
+
+### Live
+You can access this changes at -> []()
