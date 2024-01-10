@@ -1,4 +1,6 @@
 # RRS Assignment
+Built with typescript
+
 
 This project contains two urls indicating the two pages requested for.
 1. `/article` for article creation

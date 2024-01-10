@@ -32,7 +32,10 @@ export const CreationPage = () => {
 
   return (
     <div className={style.CreationPage}>
-      <Toast message={statusMessage?.message} level={statusMessage?.level} />
+      <Toast
+        message={statusMessage?.message}
+        level={statusMessage?.level as 'error' | 'success'}
+      />
       <div className={style.container}>
         <h2 className={style.header}>Article Page</h2>
         <div className={style.tag}>Create your new articles</div>

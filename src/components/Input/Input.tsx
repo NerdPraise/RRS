@@ -9,6 +9,7 @@ enum Error_By_Type {
   date = 'Incorrect Date',
   password = 'Password is not strong enough',
   other = 'Field data is incorrect or unexpected',
+  text = 'Field data is incorrect or unexpected',
 }
 
 interface InputProps {

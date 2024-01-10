@@ -4,6 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "baseUrl": "./src",
+    "jsx": "react-jsx",
     "paths": {
       "@Pages/*": ["./pages/*"],
       "@Assets/*": ["./assets/*"],
