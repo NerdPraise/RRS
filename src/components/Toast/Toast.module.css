@@ -1,0 +1,41 @@
+:local(.Toast) {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 9999999;
+}
+
+:local(.toast) {
+  display: flex;
+  width: 330px;
+  height: 60px;
+  padding: 15px 0 15px 15px;
+  align-content: center;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  flex-wrap: wrap;
+  color: white;
+  transition: width 0.3s ease-in;
+  animation: toast-in-right 0.7s;
+}
+
+:local(.cancel_btn) {
+  position: absolute;
+  right: 13px;
+  top: 5px;
+  font-weight: 500;
+  cursor: pointer;
+}
+/* &_message
+            width 270px
+            font-size 14px
+            white-space pre */
+
+@keyframes toast-in-right {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}

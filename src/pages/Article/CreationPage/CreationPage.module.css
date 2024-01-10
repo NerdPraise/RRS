@@ -1,0 +1,30 @@
+:local(.CreationPage) {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+:local(.container) {
+  min-width: 350px;
+  max-width: 700px;
+}
+
+:local(.CreationPage .name__group) {
+  display: flex;
+  justify-content: space-between;
+}
+
+:local(.tag) {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+:local(.header) {
+  text-align: center;
+}
+
+:local(.input__cont) {
+  margin-bottom: 3px;
+}

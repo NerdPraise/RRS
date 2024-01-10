@@ -1,0 +1,12 @@
+:local(.error) {
+  font-size: 10px;
+  margin-top: 1px;
+  color: rgb(220, 79, 79);
+}
+
+:local(.Input) {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  height: 49px;
+}

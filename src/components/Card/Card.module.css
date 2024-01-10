@@ -1,0 +1,24 @@
+:local(.Card) {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow:
+    -10px -10px 30px rgba(224, 224, 224, 0.05),
+    10px 10px 30px rgba(84, 84, 84, 0.1);
+  min-height: 120px;
+  margin-bottom: 15px;
+  color: #5e6366;
+}
+.card__header {
+  font-weight: bold;
+  font-size: 16px;
+  text-transform: capitalize;
+  padding: 13px;
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.card__body {
+  padding: 13px;
+  margin-bottom: 30px;
+}

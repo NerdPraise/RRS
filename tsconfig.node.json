@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "baseUrl": "./src",
+    "paths": {
+      "@Pages/*": ["./pages/*"],
+      "@Assets/*": ["./assets/*"],
+      "@Components": ["./components/index"],
+    }
+  },
+  "include": [ "vite.config.ts", "src"]
+}

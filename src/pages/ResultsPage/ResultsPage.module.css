@@ -1,0 +1,39 @@
+:local(.ResultsPage) {
+  display: flex;
+  flex-direction: column;
+}
+
+:local(.results__card__container) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 5px;
+}
+
+:local(.result__card) {
+  width: 170px;
+  flex: 0 1;
+  flex-basis: 15%;
+  margin: 10px 10px;
+  min-height: 250px;
+  position: relative;
+}
+
+:local(.input__group) {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 14px 0;
+  align-items: center;
+}
+
+:local(.input__group input) {
+  min-width: 198px;
+  margin-right: 10px;
+}
+
+:local(.author) {
+  position: absolute;
+  bottom: 0;
+  font-weight: bold;
+}
