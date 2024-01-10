@@ -6,9 +6,6 @@ import style from './Input.module.css'
 enum Error_By_Type {
   email = 'Email provided is not valid',
   tel = 'Phone number format is incorrect',
-  date = 'Incorrect Date',
-  password = 'Password is not strong enough',
-  other = 'Field data is incorrect or unexpected',
   text = 'Field data is incorrect or unexpected',
 }
 
@@ -54,7 +51,8 @@ export const Input = ({
     const isValid =
       (type === 'email' &&
         /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(value)) ||
-      (type === 'tel' && /^[0]{1}[7-9]{1}[0-1]{1}[0-9]{8}$/.test(value))
+      (type === 'tel' && /^[0]{1}[7-9]{1}[0-1]{1}[0-9]{8}$/.test(value)) ||
+      (type === 'text' && /.*/.test(value))
 
     setError(
       value && !isValid
@@ -66,7 +64,13 @@ export const Input = ({
 
   return (
     <div className={ClassNames(classname, style.Input)}>
-      <input ref={inputRef} name={name} onChange={onInputChange} type={type} />
+      <input
+        ref={inputRef}
+        name={name}
+        onChange={onInputChange}
+        type={type}
+        data-testid={name}
+      />
       {error?.[name] && <div className={style.error}>{error[name]}</div>}
     </div>
   )
