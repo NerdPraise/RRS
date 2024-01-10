@@ -5,6 +5,7 @@
     "moduleResolution": "bundler",
     "baseUrl": "./src",
     "jsx": "react-jsx",
+    "skipLibCheck": true,
     "paths": {
       "@Pages/*": ["./pages/*"],
       "@Assets/*": ["./assets/*"],
